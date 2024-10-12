@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/white" />
+    <!-- Si vous voulez ajouter une image de fond -->
+    <!--<item>
+        <bitmap
+            android:src="@drawable/your_image"
+            android:gravity="center" />
+    </item>-->
+</layer-list>
